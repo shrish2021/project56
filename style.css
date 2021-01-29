@@ -1,0 +1,13 @@
+html {
+    background-color: lightblue;
+    text-align: center;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.images {
+    display: flex;
+
+}
